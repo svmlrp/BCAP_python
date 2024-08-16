@@ -1,0 +1,12 @@
+Vessel,Expreesion type(Cargo/Ballast),Tank_name(Optional),TankDegree,TankConst
+SMB,Cargo,NO.1 W.B.T.(P),0,"283.78,0"
+SMB,Cargo,NO.1 W.B.T.(S),0,"283.78,0"
+SMB,Cargo,NO.2 W.B.T.(P),0,236.99
+SMB,Cargo,NO.2 W.B.T.(S),0,236.99
+SMB,Cargo,NO.3 W.B.T.(P),0,182.57
+SMB,Cargo,NO.3 W.B.T.(S),0,182.57
+SMB,Cargo,NO.4 W.B.T.(P),0,128.15
+SMB,Cargo,NO.4 W.B.T.(S),0,128.15
+SMB,Cargo,NO.5 W.B.T.(P),0,76.31
+SMB,Cargo,NO.5 W.B.T.(S),0,76.31
+SMB,Cargo,AFT PEAK T.(C),0,9.36

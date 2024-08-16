@@ -1,0 +1,53 @@
+Tank name ,Mapping Tank name
+FORE PEAK TANK,FORE PEAK TANK
+NO. 1 BTM. N. B. TK. P,NO. 1 BTM. N. B. TK. S
+NO. 1 BTM. N. B. TK. S,NO. 1 BTM. N. B. TK. P
+NO. 1 T. & BTM. W. B. TK. S,NO. 1 T. & BTM. W. B. TK. P
+NO. 1 T. & BTM. W. B. TK. P,NO. 1 T. & BTM. W. B. TK. S
+NO. 2 BTM. W. B. TK. P,NO. 2 BTM. W. B. TK. S
+NO. 2 BTM. W. B. TK. S,NO. 2 BTM. W. B. TK. P
+NO. 2 T. S. & BTM. W. B. TK. S,NO. 2 T. S. & BTM. W. B. TK. P
+NO. 2 T. S. & BTM. W. B. TK. P,NO. 2 T. S. & BTM. W. B. TK. S
+NO. 3 BTM. W. I B. TK. P,NO. 3 BTM. W. I B. TK. S
+NO. 3 BTM. W. I B. TK. S,NO. 3 BTM. W. I B. TK. P
+NO. 3 S. & BTM. W. B. TK. S,NO. 3 S. & BTM. W. B. TK. P
+NO. 3 S. & BTM. W. B. TK. P,NO. 3 S. & BTM. W. B. TK. S
+NO. 4 BTM W. B. TK. P,NO. 4 BTM W. B. TK. S
+NO. 4 BTM W. B. TK. S,NO. 4 BTM W. B. TK. P
+NO. 4 T. S. & BTM. W. B. TK. S,NO. 4 T. S. & BTM. W. B. TK. P
+NO. 4 T. S. & BTM. W. B. TK. P,NO. 4 T. S. & BTM. W. B. TK. S
+NO. 5 BTM. W. I B. TK. / COLLECT TK. P,NO. 5 BTM. W. I B. TK. / COLLECT TK. S
+NO. 5 BTM. W. I B. TK. / COLLECT TK. S,NO. 5 BTM. W. I B. TK. / COLLECT TK. P
+NO. 5 T. S. & BTM. W. B. TK. / COLLECT TK. S,NO. 5 T. S. & BTM. W. B. TK. / COLLECT TK. P
+NO. 5 T. S. & BTM. W. B. TK. / COLLECT TK. P,NO. 5 T. S. & BTM. W. B. TK. / COLLECT TK. S
+AFT PEAK TANK,AFT PEAK TANK
+NO. 4 CARGO HOLD (W. B.),NO. 4 CARGO HOLD (W. B.)
+DRINK WATER TK. P,FRESH WATER TANK S
+FRESH WATER TANK S,DRINK WATER TK. P
+NO. 1 FUEL OIL TK. P,NO. 1 FUEL OIL TK. S
+NO. 1 FUEL OIL TK. S,NO. 1 FUEL OIL TK. P
+NO. 2 FUEL OIL TK. P,NO. 2 FUEL OIL TK. S
+NO. 2 FUEL OIL TK. S,NO. 2 FUEL OIL TK. P
+NO. 3 FUEL OIL TK. P,NO. 3 FUEL OIL TK. S
+NO. 3 FUEL OIL TK. S,NO. 3 FUEL OIL TK. P
+H. F.O. SETT. TK.,H. F.O. SETT. TK.
+NO. 1 H. F.O. SERV. TK.,NO. 1 H. F.O. SERV. TK.
+NO. 2 H. F.O. SERV. TK.,NO. 2 H. F.O. SERV. TK.
+DIESEL OIL TK. P,DIESEL OIL TK. S
+DIESEL OIL TK. S,DIESEL OIL TK. P
+D.O. SERV. TK. S,D.O. SERV. TK. S
+M/E L.O SUMP TK.,M/E L.O SUMP TK.
+F.O. CLEAN DRAIN COMP.,F.O. CLEAN DRAIN COMP.
+F.O. OVERFLOW TK. S,F.O. OVERFLOW TK. S
+BILGE TK. P,BILGE TK. P
+WASTE OIL TK. C,WASTE OIL TK. C
+GRAY WATER TK. P,GRAY WATER TK. P
+COOL W. TK.,COOL W. TK.
+Crew & their effect,Crew & their effect
+Bos'n Str.,Bos'n Str.
+Midd. Dk. Str.,Midd. Dk. Str.
+"Stores E/R, Acc. Str.","Stores E/R, Acc. Str."
+Steer. G. Rm.,Steer. G. Rm.
+Oil & Water in E/R,Oil & Water in E/R
+M/E L.O. Sump Tk.,M/E L.O. Sump Tk.
+Cool. W. Tk.,Cool. W. Tk.

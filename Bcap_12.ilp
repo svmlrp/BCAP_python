@@ -1,0 +1,10 @@
+\ Model _copy
+\ LP format - for model browsing. Use MPS format to capture full model detail.
+Minimize
+ 
+Subject To
+ R174: X[2,2,1,2] >= 1
+ R180: X[2,2,1,2] = 0
+Bounds
+ X[2,2,1,2] free
+End

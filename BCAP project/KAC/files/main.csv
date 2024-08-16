@@ -1,0 +1,17 @@
+0,0
+lpp,222
+thicknessKeel,0.029
+swDensity,1.025
+trimMin,-1
+trimMax,5
+nTrims,13
+nCalcStations,200
+calcTorsion,0
+harbourLimits,1
+sfCorrections,1
+hydrostaticDraughts,1
+simpleSFandBMcalc,1
+vesselProfile,1
+drMarkXap,9.85
+drMarkXap,110.9
+drMarkXap,211.89
